@@ -1,0 +1,4 @@
+name: Batch example
+description: Custom Batch API examples. N tasks - one operation
+type: module
+core_version_requirement: ^8 || ^9

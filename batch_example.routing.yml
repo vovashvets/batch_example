@@ -1,0 +1,7 @@
+batch_form_example.batch:
+  path: '/admin/config/form-batch'
+  defaults:
+    _title: 'Form batch'
+    _form: 'Drupal\batch_example\Form\BatchForm'
+  requirements:
+    _permission: 'administer site configuration'

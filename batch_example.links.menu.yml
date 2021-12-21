@@ -1,0 +1,5 @@
+batch_example.batch:
+  route_name: batch_form_example.batch
+  title: Example batch
+  description: 'Custom Batch API example.'
+  parent: system.admin
